@@ -1,0 +1,292 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AngularAmbiguousComponentTag" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularBindingTypeMismatch" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularCliAddDependency" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularDeferBlockOnTrigger" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularForBlockNonIterableVar" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInaccessibleSymbol" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularIncorrectBlockUsage" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularIncorrectTemplateDefinition" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInsecureBindingToEvent" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidAnimationTriggerAssignment" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidEntryComponent" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidI18nAttribute" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidImportedOrDeclaredSymbol" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidSelector" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularInvalidTemplateReferenceVariable" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMissingEventHandler" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMissingOrInvalidDeclarationInModule" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMissingRequiredDirectiveInputBinding" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularMultipleStructuralDirectives" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularNgOptimizedImage" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="AngularNonEmptyNgContent" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularNonStandaloneComponentImports" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularRecursiveModuleImportExport" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedBinding" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedModuleExport" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="AngularUndefinedTag" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CheckDtdRefs" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CheckXmlFileWithXercesValidator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CucumberExamplesColon" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CucumberMissedExamples" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="CucumberTableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CucumberUndefinedStep" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoBrokenLineCommentInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoCloseTagInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoIncompatibleInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoOrmInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoRelationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedFilterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedLoadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedStaticReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedTagInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUnresolvedTemplateReferenceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DjangoUrlArgumentsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedBlockNamesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="286" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="EndBlockNamesInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ExtendsTagPositionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GherkinBrokenTableInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GherkinMisplacedBackground" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GherkinScenarioToScenarioOutline" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="GithubFunctionSignatureValidation" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrazieInspection" enabled="false" level="GRAMMAR_ERROR" enabled_by_default="false" />
+    <inspection_tool class="HttpClientInappropriateProtocolUsageInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpClientUnresolvedAuthId" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="HttpClientUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestContentLengthIsIgnored" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestEnvironmentAuthConfigurationValidationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestPlaceholder" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestRequestSeparatorJsonBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestRequestSeparatorXmlBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestRequestSeparatorYamlBodyInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpRequestWhitespaceInsideRequestTargetPath" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://" />
+          <option value="http://0.0.0.0" />
+          <option value="http://127.0.0.1" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://java.sun.com/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://localhost" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.w3.org/" />
+          <option value="http://xmlns.jcp.org/" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="IncorrectHttpHeaderInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JupyterPackageInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LanguageDetectionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LessResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="LessUnresolvedMixin" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LessUnresolvedVariable" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MandatoryParamsAbsent" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="MarkdownIncorrectTableFormatting" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownIncorrectlyNumberedListItem" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownLinkDestinationWithSpaces" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownNoTableBorders" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownOutdatedTableOfContents" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownUnresolvedFileReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownUnresolvedHeaderReference" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MarkdownUnresolvedLinkLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSExtDeprecationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSExtResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSExtSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSResolveInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MongoJSSideEffectsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlLoadDataPathInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlParsingInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MysqlSpaceAfterFunctionNameInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="NodeCoreCodingAssistance" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraMissingBodyInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraOverloadInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OraUnmatchedForwardDeclarationInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PgSelectFromProcedureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PostCssCustomMedia" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PostCssCustomSelector" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PostCssMediaRange" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PostCssUnresolvedModuleValueReference" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="Puppet3Deprecations" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="Puppet4Deprecations" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PuppetMultipleHashSetParamsPerResourceInstance" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PuppetUnresolved" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyAsyncCallInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="78">
+            <item index="0" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="1" class="java.lang.String" itemvalue="alembic" />
+            <item index="2" class="java.lang.String" itemvalue="environs" />
+            <item index="3" class="java.lang.String" itemvalue="greenlet" />
+            <item index="4" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="5" class="java.lang.String" itemvalue="qrcode" />
+            <item index="6" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="7" class="java.lang.String" itemvalue="python-dotenv" />
+            <item index="8" class="java.lang.String" itemvalue="marshmallow" />
+            <item index="9" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="10" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="11" class="java.lang.String" itemvalue="redis" />
+            <item index="12" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="13" class="java.lang.String" itemvalue="starlette" />
+            <item index="14" class="java.lang.String" itemvalue="certifi" />
+            <item index="15" class="java.lang.String" itemvalue="anyio" />
+            <item index="16" class="java.lang.String" itemvalue="uvicorn" />
+            <item index="17" class="java.lang.String" itemvalue="annotated-types" />
+            <item index="18" class="java.lang.String" itemvalue="pydantic" />
+            <item index="19" class="java.lang.String" itemvalue="pypng" />
+            <item index="20" class="java.lang.String" itemvalue="six" />
+            <item index="21" class="java.lang.String" itemvalue="asyncpg" />
+            <item index="22" class="java.lang.String" itemvalue="magic-filter" />
+            <item index="23" class="java.lang.String" itemvalue="aiofiles" />
+            <item index="24" class="java.lang.String" itemvalue="aiogram" />
+            <item index="25" class="java.lang.String" itemvalue="tzdata" />
+            <item index="26" class="java.lang.String" itemvalue="packaging" />
+            <item index="27" class="java.lang.String" itemvalue="click" />
+            <item index="28" class="java.lang.String" itemvalue="APScheduler" />
+            <item index="29" class="java.lang.String" itemvalue="attrs" />
+            <item index="30" class="java.lang.String" itemvalue="prettytable" />
+            <item index="31" class="java.lang.String" itemvalue="fastapi" />
+            <item index="32" class="java.lang.String" itemvalue="pydantic_core" />
+            <item index="33" class="java.lang.String" itemvalue="colorama" />
+            <item index="34" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="35" class="java.lang.String" itemvalue="pillow" />
+            <item index="36" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="37" class="java.lang.String" itemvalue="multidict" />
+            <item index="38" class="java.lang.String" itemvalue="yarl" />
+            <item index="39" class="java.lang.String" itemvalue="pytz" />
+            <item index="40" class="java.lang.String" itemvalue="betterlogging" />
+            <item index="41" class="java.lang.String" itemvalue="Mako" />
+            <item index="42" class="java.lang.String" itemvalue="aiosignal" />
+            <item index="43" class="java.lang.String" itemvalue="idna" />
+            <item index="44" class="java.lang.String" itemvalue="ujson" />
+            <item index="45" class="java.lang.String" itemvalue="bitcoinlib" />
+            <item index="46" class="java.lang.String" itemvalue="psycopg-pool" />
+            <item index="47" class="java.lang.String" itemvalue="dishka" />
+            <item index="48" class="java.lang.String" itemvalue="miniopy-async" />
+            <item index="49" class="java.lang.String" itemvalue="psycopg" />
+            <item index="50" class="java.lang.String" itemvalue="ruff" />
+            <item index="51" class="java.lang.String" itemvalue="psycopg-binary" />
+            <item index="52" class="java.lang.String" itemvalue="base58" />
+            <item index="53" class="java.lang.String" itemvalue="Crypto" />
+            <item index="54" class="java.lang.String" itemvalue="faststream" />
+            <item index="55" class="java.lang.String" itemvalue="httpx" />
+            <item index="56" class="java.lang.String" itemvalue="distro" />
+            <item index="57" class="java.lang.String" itemvalue="decorator" />
+            <item index="58" class="java.lang.String" itemvalue="jiter" />
+            <item index="59" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="60" class="java.lang.String" itemvalue="proglog" />
+            <item index="61" class="java.lang.String" itemvalue="imageio-ffmpeg" />
+            <item index="62" class="java.lang.String" itemvalue="aiohappyeyeballs" />
+            <item index="63" class="java.lang.String" itemvalue="defusedxml" />
+            <item index="64" class="java.lang.String" itemvalue="h11" />
+            <item index="65" class="java.lang.String" itemvalue="numpy" />
+            <item index="66" class="java.lang.String" itemvalue="requests" />
+            <item index="67" class="java.lang.String" itemvalue="sniffio" />
+            <item index="68" class="java.lang.String" itemvalue="typing-inspection" />
+            <item index="69" class="java.lang.String" itemvalue="tqdm" />
+            <item index="70" class="java.lang.String" itemvalue="openai" />
+            <item index="71" class="java.lang.String" itemvalue="imageio" />
+            <item index="72" class="java.lang.String" itemvalue="propcache" />
+            <item index="73" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="74" class="java.lang.String" itemvalue="moviepy" />
+            <item index="75" class="java.lang.String" itemvalue="urllib3" />
+            <item index="76" class="java.lang.String" itemvalue="youtube-transcript-api" />
+            <item index="77" class="java.lang.String" itemvalue="httpcore" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E701 " />
+          <option value="E722" />
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTupleAssignmentBalanceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="fastapi.applications.FastAPI.state" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyramidSetupInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SqlDialectInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SqlNoDataSourceInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="StructuralWrap" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="Style" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="SwJsonMaybeSpecificationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SwJsonUnresolvedReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SwYamlMaybeSpecificationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SwYamlUnresolvedReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UndefinedAction" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UndefinedParamsPresent" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="ValeProblem" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueDataFunction" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueDeprecatedSymbol" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueDuplicateTag" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueMissingComponentImportInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueUnrecognizedDirective" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VueUnrecognizedSlot" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlDefaultAttributeValue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlDeprecatedElement" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlHighlighting" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlInvalidId" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlPathReference" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlUnboundNsPrefix" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlUnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="XmlUnusedNamespaceDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="XmlWrongRootElement" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
