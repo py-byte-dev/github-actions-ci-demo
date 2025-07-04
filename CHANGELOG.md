@@ -2,6 +2,19 @@
 
 <!-- version list -->
 
+## v1.1.0 (2025-07-04)
+
+### Chores
+
+- **release**: 1.0.0
+  ([`3921b27`](https://github.com/py-byte-dev/github-actions-ci-demo/commit/3921b27f6a9432be875e57399808a063d527106a))
+
+### Features
+
+- Second commit
+  ([`94a29d9`](https://github.com/py-byte-dev/github-actions-ci-demo/commit/94a29d991928dedddb949cf0450c6818da517086))
+
+
 ## v1.0.0 (2025-07-03)
 
 - Initial Release
