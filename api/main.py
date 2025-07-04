@@ -6,4 +6,4 @@ app = FastAPI()
 
 @app.get("/random-text")
 def get_random_text():
-    return {"result": True, "number": random.randint(1, 100)}
+    return {"result": "ok", "number": random.randint(1, 100)}
