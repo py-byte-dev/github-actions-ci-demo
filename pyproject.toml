@@ -19,7 +19,7 @@ upload_to_release = true
 commit_message = "chore(release): v{version}"
 
 [tool.semantic_release.remote]
-type = "gitactions"
+type = "github"
 
 [tool.semantic_release.commit_parser_options]
 ignore_merge_commits = false
