@@ -1,0 +1,74 @@
+[project]
+name = "gh-actions"
+version = "1.0.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115.14",
+    "python-semantic-release>=10.2.0",
+    "uvicorn>=0.35.0",
+]
+
+
+[tool.semantic_release]
+version_toml = ["pyproject.toml:project.version"]
+version_source = "tag"
+upload_to_pypi = false
+upload_to_release = true
+commit_message = "chore(release): v{version}"
+
+[tool.semantic_release.remote]
+type = "github"
+
+[tool.semantic_release.commit_parser_options]
+ignore_merge_commits = false
+
+[dependency-groups]
+dev = [
+    "httpx==0.28.1",
+    "pytest==8.4.1",
+    "pytest-asyncio==1.0.0",
+    "ruff>=0.12.1",
+]
+
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+exclude = [
+    ".idea",
+    ".git",
+    ".venv",
+    "__pycache__",
+]
+
+[tool.ruff.lint]
+select = [
+    "F", "E", "W", "C90", "I", "N", "UP", "ANN", "ASYNC", "S", "BLE", "B", "A", "COM", "C4", "DTZ", "T10", "EM", "EXE",
+    "ISC", "ICN", "INP", "PIE", "T20", "PYI", "PT", "Q", "RSE", "RET", "SLF", "SLOT", "SIM", "TID", "INT", "ARG", "PTH",
+    "TD005", "TD007", "FIX001", "ERA", "PGH", "PL", "TRY", "FLY", "PERF", "RUF",
+]
+ignore = [
+    "A003", "ANN002", "ANN003", "ANN401", "B007", "B008", "BLE001", "DTZ003", "DTZ004", "DTZ007", "EM101", "EM102",
+    "FIX001", "N805", "PLR0913", "PLW2901", "PTH", "PYI024", "RUF002", "RUF003", "RUF012", "S103", "S105", "S603",
+    "S607", "TD005", "TRY003", "COM812", "Q000", "Q003"
+]
+dummy-variable-rgx = "^_$"
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101", "ANN001", "SLF001", "INP001", "S106", "PYI024", "DTZ001"]
+
+[tool.ruff.lint.flake8-annotations]
+mypy-init-return = true
+suppress-none-returning = true
+
+[tool.ruff.lint.flake8-quotes]
+inline-quotes = "single"
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+
+[tool.ruff.lint.pylint]
+max-args = 10
+max-returns = 8
