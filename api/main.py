@@ -17,3 +17,8 @@ def get_random_text():
 @app.get("/random-number-text")
 def get_random_text():
     return {"result": True, "number": random.randint(1, 100)}
+
+
+@app.get("/random-text-text")
+def get_random_text():
+    return {"result": True, "text": random.randint(1, 100)}
